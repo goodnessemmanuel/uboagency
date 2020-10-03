@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a7a147-b323-45b5-bcf7-8d76f9828325" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <execution>
+      <executable path="C:\wamp64\Composer-Setup.exe" />
+    </execution>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server deployment_server="fdb8b489-9899-4b61-8156-19cb3608d5bf" host="localhost" id="ec920f42-6e7c-4ebf-94f9-f41f4eddb584" name="PHPWAMP" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/wamp64/www/uboagencies" />
+          <mapping local-root="$PROJECT_DIR$/account" remote-root="C:/wamp64/www/uboagencies/account" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TT10Dm80Qp91TfmK2uqB1sA74o" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a7a147-b323-45b5-bcf7-8d76f9828325" name="Default Changelist" comment="" />
+      <created>1573469046240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573469046240</updated>
+      <workItem from="1573469051135" duration="2625000" />
+      <workItem from="1573474116686" duration="2993000" />
+      <workItem from="1573493508503" duration="79774000" />
+      <workItem from="1574414544537" duration="7535000" />
+      <workItem from="1575276450329" duration="17690000" />
+      <workItem from="1577105654499" duration="1998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
